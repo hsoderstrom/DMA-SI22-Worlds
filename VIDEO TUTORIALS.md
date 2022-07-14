@@ -9,7 +9,13 @@
 
 
 ## [Click here](https://drive.google.com/file/d/1HoloB5TtfwZH3NHLAxidGajYYNFxyhzC/view?usp=sharing) to view the demos from day 2!
+- Materials
+- Animations
+- Colliders
 
 ## [Click here](https://drive.google.com/file/d/16r4cjcRNWWCYIDp_T5CXMM-YMbBmHML6/view?usp=sharing) to view the demos from day 3!
+- Light
+- Sound
+- Post Processing
 
 (Download the files to your computer to view them in full resolution)
