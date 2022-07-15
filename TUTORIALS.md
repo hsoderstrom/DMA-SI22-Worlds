@@ -19,4 +19,4 @@
 - Post Processing
 -   Sound sourcing: https://archive.org, https://freesound.org
 
-(Download the files to your computer to view them in full resolution)
+(Download the videos to your computer to view them in full resolution)
