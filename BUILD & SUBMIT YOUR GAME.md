@@ -12,6 +12,7 @@ Then click Build.
 
 
 3. Create a ***new folder*** for your built game, name it whatever you want and click Select Folder to save it. It will take a minute.
+
 ![New Folder](http://users.design.ucla.edu/~hsoderstrom/si22/build2.5.PNG)
 
 4. Inside the folder you created, there is a file with the same name as your project and the extensions **.exe**. This is your game!
@@ -19,7 +20,7 @@ Then click Build.
 ![Game folder](http://users.design.ucla.edu/~hsoderstrom/si22/build3.PNG)
 
 
-5. Find the folder with your game inside of it (the folder that contains all the files in the image above), right click on it and choose "Send To" -> "Compressed (zipped) folder".
+5. Find the folder we created in step 3, the one with your game inside of it (it should contain all the files in the image under step 4). Right click on it and choose "Send To" -> "Compressed (zipped) folder".
 ***Do not just zip the .exe file!! We need the entire folder you created when you Built your game!!***
 
 ![Zipping the folder](http://users.design.ucla.edu/~hsoderstrom/si22/build4.png)
